@@ -17,6 +17,7 @@ fonts_urls:
     - "https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic"
     - "https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700"
     - "https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900"
+    - "https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900"
 
 # Set custom fonts
 fonts:
@@ -24,7 +25,7 @@ fonts:
     for: "heading"
   - name: "Kaushan Script"
     for: "script"
-  - name: "Droid Serif"
+  - name: "Roboto Serif"
     for: "serif"
   - name: "Roboto Slab"
     for: "body"
