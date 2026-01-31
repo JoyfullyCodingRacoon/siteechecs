@@ -62,7 +62,7 @@ en: &DEFAULT_EN
            Jeu libre pour tous<br><br>
            + des évènements certains week-end<br>
            + des compétitions"
-    section: about
+    section: organisation
 
   about:
     title: "Tarifs"
