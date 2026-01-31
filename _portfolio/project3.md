@@ -1,18 +1,14 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Jeu libre
 image: assets/img/portfolio/03-full.jpg
-alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Jeu libre
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Le jeu libre a lieu
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Le mercredi
+- De 20h15 à 22h15
 

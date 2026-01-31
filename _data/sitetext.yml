@@ -30,9 +30,8 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Fermer"
 
   timeline:
     title: "Valeurs"
@@ -49,8 +48,21 @@ en: &DEFAULT_EN
       - title: "Gestion du stress"
         image: assets/img/timeline/4.jpg
       - title: "Respect d'autrui"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/5.jpg
     end: "N'hésitez pas <br> à nous <br> rejoindre !"
+
+  organisation:
+    title: "Organisation"
+    body: "Le mercredi <br>
+           17h - 18h<br>
+           Cours débutants et jeu libre enfants (6-10 ans)<br><br>
+           18h - 19h<br>
+           Cours débutants et jeu libre ado-adultes (11 ans et +)<br><br>
+           20h15 - 22h15<br>
+           Jeu libre pour tous<br><br>
+           + des évènements certains week-end<br>
+           + des compétitions"
+    section: about
 
   about:
     title: "Tarifs"

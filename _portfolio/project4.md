@@ -1,18 +1,9 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Instagram
 image: assets/img/portfolio/04-full.jpg
-alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: Instagram
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
-
+L'actualité du club sur instagram
