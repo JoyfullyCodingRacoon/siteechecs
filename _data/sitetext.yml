@@ -35,22 +35,22 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Valeurs"
-    text: ""
+    text: "Nos valeurs"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - desc: "Concentration"
+      - title: "Concentration"
         image: assets/img/timeline/1.jpg
-      - desc: "Stimulation"
+      - title: "Stimulation"
         image: assets/img/timeline/2.jpg
-      - desc: "Créativité"
+      - title: "Créativité"
         image: assets/img/timeline/3.jpg
-      - desc: "Gestion du stress"
+      - title: "Gestion du stress"
         image: assets/img/timeline/4.jpg
-      - desc: "Respect d'autrui"
+      - title: "Respect d'autrui"
         image: assets/img/timeline/4.jpg
-    end: "<br> Rejoignez <br> nous !"
+    end: "N'hésitez pas <br> à nous <br> rejoindre !"
 
   about:
     title: "Tarifs"
