@@ -18,12 +18,12 @@ en: &DEFAULT_EN
 
   services:
     title: "Présentation"
-    text: "Bienvenue au Club d'échecs \"Echec & Val\". \
-           Notre club a pour but la promotion et le développement du jeu d'échecs sur le Val d'Europe et les environs. \
+    text: "Bienvenue au Club d'échecs \"Echec & Val\".
+           Notre club a pour but la promotion et le développement du jeu d'échecs sur le Val d'Europe et les environs.
            Nous sommes installés à Bailly-Romainvilliers. 
-           Le club est ouvert à toutes et à tous, nous accueillons des joueuses et des joueurs de tous niveaux et formons les débutants de tout âge. \
-           Nous accueillons les enfants à partir de 6 ans. \
-           Les cours proposent une pédagogie mêlant plaisir du jeu et rigueur stratégique tout en conservant une dimension ludique et motivante. \
+           Le club est ouvert à toutes et à tous, nous accueillons des joueuses et des joueurs de tous niveaux et formons les débutants de tout âge.
+           Nous accueillons les enfants à partir de 6 ans.
+           Les cours proposent une pédagogie mêlant plaisir du jeu et rigueur stratégique tout en conservant une dimension ludique et motivante.
            Les joueurs peuvent, s'ils le souhaitent, être initiés aux compétitions."
     section: services
 
@@ -34,36 +34,35 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Tarifs"
+    title: "Valeurs"
     text: ""
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Concentration"
+      - desc: "Concentration"
         image: assets/img/timeline/1.jpg
-      - title: "Stimulation"
+      - desc: "Stimulation"
         image: assets/img/timeline/2.jpg
-      - title: "Créativité"
+      - desc: "Créativité"
         image: assets/img/timeline/3.jpg
-      - title: "Gestion du stress"
+      - desc: "Gestion du stress"
         image: assets/img/timeline/4.jpg
-      - title: "Respect d'autrui"
+      - desc: "Respect d'autrui"
         image: assets/img/timeline/4.jpg
-    end: "Rejoignez <br> nous !"
+    end: "<br> Rejoignez <br> nous !"
 
   about:
     title: "Tarifs"
-    text: "Nos tarifs"
-    body: "adhésion à l’association : 15 € à l’année (comprenant la licence B de le Fédération)
+    body: "Adhésion à l’association : 15 € à l’année (comprenant la licence B de le Fédération) <br>
            Possibilité de prendre la licence A sur demande auprès du club"
     section: about
 
   contact:
-    title: "Contactez nous"
-    text: "Pour tout renseignement, n'hésitez pas à nous contacter.
-           Adresse : Maison des associations, 4 rue de Paris à Bailly-Romainvilliers
-           Mail : echecetval@gmail.com
+    title: "Contactez-nous"
+    text: "Pour tout renseignement, n'hésitez pas à nous contacter. <br>
+           Adresse : Maison des associations, 4 rue de Paris à Bailly-Romainvilliers <br>
+           Mail : echecetval@gmail.com <br>
            Téléphone : 06 22 24 27 37"
     section: contact
     name: "Nom*"
