@@ -8,8 +8,14 @@ title: Mentions légales
 
 **Directeur de la publication**
 
-Grégory B.....
+Grégory Bordet (Président)
 
 **Echec et Val**
 
-Adresse et email
+Maison des associations
+4 rue de Paris
+77700 Bailly-Romainvilliers
+
+echecetval@gmail.com
+
+06 22 24 27 37
